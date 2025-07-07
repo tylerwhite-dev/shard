@@ -2,8 +2,9 @@
   "interfaceFontFamily": "Hack Nerd Font",
   "textFontFamily": "Hack Nerd Font",
   "monospaceFontFamily": "JetBrainsMono NF,Hack Nerd Font Mono",
-  "theme": "system",
+  "theme": "moonstone",
   "accentColor": "",
   "showViewHeader": false,
-  "showRibbon": true
+  "showRibbon": false,
+  "cssTheme": "Primary"
 }

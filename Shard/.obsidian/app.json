@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "showLineNumber": false,
+  "readableLineLength": true
 }
