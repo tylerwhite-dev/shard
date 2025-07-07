@@ -22,7 +22,6 @@
   "id@@h1-underline": false,
   "id@@h2-underline": false,
   "primary-theme@@zero-tab-anim": true,
-  "primary-theme@@zero-popup-popdown": true,
   "primary-theme@@zero-popup-blur": true,
   "primary-theme@@interface_status-bar-item-display": "sb-word-count-only",
   "primary-theme@@ribbon_styles": "ribbon-default",
@@ -33,5 +32,8 @@
   "primary-theme@@colorful-folders_collapse-indicator": false,
   "primary-theme@@colorful-folders_background": false,
   "primary-theme@@colorful-folders_indentation-guide": false,
-  "primary-theme@@file-line-width": "750px"
+  "primary-theme@@file-line-width": "750px",
+  "primary-theme@@font-ui-smallest": 12,
+  "primary-theme@@font-ui-smaller": 13,
+  "primary-theme@@zero-popup-popdown": true
 }
