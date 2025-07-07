@@ -27,7 +27,7 @@
   "primary-theme@@interface_status-bar-item-display": "sb-word-count-only",
   "primary-theme@@ribbon_styles": "ribbon-default",
   "primary-theme@@active-line-highlight": false,
-  "primary-theme@@interface_status-bar-style": "sb-style-slideout",
+  "primary-theme@@interface_status-bar-style": "sb-style-slideupfull",
   "primary-theme@@alt-folder-icons": true,
   "primary-theme@@colorful-folders_text": false,
   "primary-theme@@colorful-folders_collapse-indicator": false,

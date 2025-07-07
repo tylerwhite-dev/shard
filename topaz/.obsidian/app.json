@@ -4,5 +4,6 @@
   "uriCallbacks": true,
   "showLineNumber": false,
   "readableLineLength": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "hidden"
 }
