@@ -3,5 +3,6 @@
   "showUnsupportedFiles": true,
   "uriCallbacks": true,
   "showLineNumber": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "promptDelete": false
 }
