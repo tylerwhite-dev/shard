@@ -10,14 +10,6 @@
   ],
   "markdown:add-metadata-property": [],
   "table-editor-obsidian:table-control-bar": [],
-  "calendar:open-weekly-note": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Enter"
-    }
-  ],
   "workspace:close": [],
   "workspace:close-window": [
     {
@@ -28,14 +20,6 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "\\"
-    }
-  ],
   "app:delete-file": [
     {
       "modifiers": [
@@ -217,6 +201,22 @@
         "Mod"
       ],
       "key": "D"
+    }
+  ],
+  "calendar:open-weekly-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": ";"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "'"
     }
   ]
 }
