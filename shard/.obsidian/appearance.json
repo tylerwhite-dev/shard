@@ -1,7 +1,7 @@
 {
   "interfaceFontFamily": "Hack Nerd Font",
   "textFontFamily": "Hack Nerd Font",
-  "monospaceFontFamily": "JetBrainsMono NF,Hack Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono NF,JetBrains Mono,Hack Nerd Font Mono",
   "theme": "system",
   "accentColor": "#057aff",
   "showViewHeader": false,

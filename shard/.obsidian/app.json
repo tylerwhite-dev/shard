@@ -5,5 +5,7 @@
   "showLineNumber": false,
   "readableLineLength": true,
   "promptDelete": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes"
 }
