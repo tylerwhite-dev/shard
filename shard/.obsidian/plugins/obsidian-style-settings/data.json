@@ -35,5 +35,7 @@
   "primary-theme@@file-line-width": "750px",
   "primary-theme@@font-ui-smallest": 12,
   "primary-theme@@font-ui-smaller": 13,
-  "primary-theme@@zero-popup-popdown": true
+  "primary-theme@@zero-popup-popdown": true,
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-style@@window-title-off": false
 }
