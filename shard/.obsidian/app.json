@@ -7,5 +7,8 @@
   "promptDelete": false,
   "propertiesInDocument": "hidden",
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes"
+  "newFileFolderPath": "notes",
+  "showIndentGuide": true,
+  "autoConvertHtml": false,
+  "attachmentFolderPath": "./attachments"
 }

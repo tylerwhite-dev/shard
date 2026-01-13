@@ -203,20 +203,29 @@
       "key": "D"
     }
   ],
-  "calendar:open-weekly-note": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": ";"
-    }
-  ],
   "daily-notes": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "'"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
     }
   ]
 }

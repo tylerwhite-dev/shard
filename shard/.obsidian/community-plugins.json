@@ -1,8 +1,7 @@
 [
-  "table-editor-obsidian",
   "calendar",
   "obsidian-checklist-plugin",
-  "meld-encrypt",
   "obsidian-minimal-settings",
-  "obsidian-style-settings"
+  "meld-encrypt",
+  "obsidian-excalidraw-plugin"
 ]
