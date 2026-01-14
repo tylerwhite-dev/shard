@@ -10,8 +10,7 @@
   ],
   "markdown:add-metadata-property": [],
   "table-editor-obsidian:table-control-bar": [],
-  "workspace:close": [],
-  "workspace:close-window": [
+  "workspace:close": [
     {
       "modifiers": [
         "Mod"
@@ -30,7 +29,6 @@
     }
   ],
   "editor:delete-paragraph": [],
-  "editor:follow-link": [],
   "workspace:goto-last-tab": [],
   "workspace:next-tab": [
     {
@@ -75,38 +73,6 @@
       "key": "Enter"
     }
   ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "["
-    }
-  ],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "]"
-    }
-  ],
   "editor:open-link-in-new-leaf": [],
   "editor:open-link-in-new-window": [],
   "editor:open-link-in-new-split": [],
@@ -138,15 +104,6 @@
       "key": "J"
     }
   ],
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "7"
-    }
-  ],
   "editor:toggle-checklist-status": [
     {
       "modifiers": [
@@ -159,7 +116,7 @@
   "editor:toggle-code": [
     {
       "modifiers": [
-        "Alt",
+        "Mod",
         "Shift"
       ],
       "key": "M"
@@ -226,6 +183,40 @@
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
     }
   ]
 }

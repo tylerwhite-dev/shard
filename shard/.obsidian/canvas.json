@@ -1,3 +1,5 @@
 {
-  "snapToGrid": false
+  "snapToObjects": true,
+  "snapToGrid": false,
+  "newFileLocation": "current"
 }

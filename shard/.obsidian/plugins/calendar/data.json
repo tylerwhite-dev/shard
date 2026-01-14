@@ -1,7 +1,7 @@
 {
   "shouldConfirmBeforeCreate": false,
   "weekStart": "monday",
-  "wordsPerDot": 100,
+  "wordsPerDot": 1000,
   "showWeeklyNote": true,
   "weeklyNoteFormat": "[W]WW MMMM YYYY",
   "weeklyNoteTemplate": "templates/main",
