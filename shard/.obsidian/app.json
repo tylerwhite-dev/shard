@@ -6,7 +6,7 @@
   "readableLineLength": true,
   "promptDelete": false,
   "propertiesInDocument": "hidden",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "notes",
   "showIndentGuide": true,
   "autoConvertHtml": false,

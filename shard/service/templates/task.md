@@ -1,4 +1,6 @@
 ---
 tags:
   - todo
+deadline:
+priority:
 ---
