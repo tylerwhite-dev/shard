@@ -1,3 +1,6 @@
+# Line endings
+*.json text eol=lf
+
 # Files to store in git-lfs
 
 # Images
