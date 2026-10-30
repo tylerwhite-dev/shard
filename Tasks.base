@@ -1,0 +1,40 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasTag("task")
+    - '!file.inFolder("service/templates")'
+properties:
+  file.name:
+    displayName: Task
+  note.status:
+    displayName: Status
+views:
+  - type: kanban
+    name: Kanban
+    groupBy:
+      property: status
+      direction: ASC
+    groupOrder:
+      - Upcoming
+      - In progress
+      - Done
+    order:
+      - file.name
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnWidth: 310
+  - type: table
+    name: All tasks
+    order:
+      - file.name
+      - status
+    sort:
+      - property: file.name
+        direction: ASC
+    rowHeight: medium
+    columnSize:
+      file.name: 1088
+  - type: cards
+    name: Cards
+    cardSize: 450
