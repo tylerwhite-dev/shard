@@ -1,0 +1,6 @@
+{
+  "format": "D MMMM YYYY",
+  "folder": "archive/daily",
+  "template": "service/templates/main.md",
+  "autorun": false
+}

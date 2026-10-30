@@ -1,0 +1,13 @@
+{
+  "interfaceFontFamily": "Hack Nerd Font",
+  "textFontFamily": "Hack Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "theme": "obsidian",
+  "accentColor": "#e1d289",
+  "showViewHeader": false,
+  "showRibbon": false,
+  "cssTheme": "Minimal",
+  "baseFontSize": 17,
+  "translucency": false,
+  "nativeMenus": false
+}
