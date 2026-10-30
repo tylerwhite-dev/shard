@@ -1,0 +1,79 @@
+# Files to store in git-lfs
+
+# Images
+*.png filter=lfs diff=lfs merge=lfs
+*.jpg filter=lfs diff=lfs merge=lfs
+*.jpeg filter=lfs diff=lfs merge=lfs
+*.webp filter=lfs diff=lfs merge=lfs
+*.gif filter=lfs diff=lfs merge=lfs
+*.bmp filter=lfs diff=lfs merge=lfs
+*.tiff filter=lfs diff=lfs merge=lfs
+*.tif filter=lfs diff=lfs merge=lfs
+*.ico filter=lfs diff=lfs merge=lfs
+*.heic filter=lfs diff=lfs merge=lfs
+*.heif filter=lfs diff=lfs merge=lfs
+*.raw filter=lfs diff=lfs merge=lfs
+*.svg filter=lfs diff=lfs merge=lfs
+
+# Archives
+*.7z filter=lfs diff=lfs merge=lfs
+*.br filter=lfs diff=lfs merge=lfs
+*.gz filter=lfs diff=lfs merge=lfs
+*.tar filter=lfs diff=lfs merge=lfs
+*.zip filter=lfs diff=lfs merge=lfs
+*.rar filter=lfs diff=lfs merge=lfs
+*.bz2 filter=lfs diff=lfs merge=lfs
+*.xz filter=lfs diff=lfs merge=lfs
+*.zst filter=lfs diff=lfs merge=lfs
+*.tgz filter=lfs diff=lfs merge=lfs
+*.tbz2 filter=lfs diff=lfs merge=lfs
+*.txz filter=lfs diff=lfs merge=lfs
+
+# Documents
+*.pdf filter=lfs diff=lfs merge=lfs
+*.doc filter=lfs diff=lfs merge=lfs
+*.docx filter=lfs diff=lfs merge=lfs
+*.xls filter=lfs diff=lfs merge=lfs
+*.xlsx filter=lfs diff=lfs merge=lfs
+*.ppt filter=lfs diff=lfs merge=lfs
+*.pptx filter=lfs diff=lfs merge=lfs
+*.odt filter=lfs diff=lfs merge=lfs
+*.ods filter=lfs diff=lfs merge=lfs
+*.odp filter=lfs diff=lfs merge=lfs
+
+# Audio
+*.mp3 filter=lfs diff=lfs merge=lfs
+*.wav filter=lfs diff=lfs merge=lfs
+*.flac filter=lfs diff=lfs merge=lfs
+*.ogg filter=lfs diff=lfs merge=lfs
+*.opus filter=lfs diff=lfs merge=lfs
+*.m4a filter=lfs diff=lfs merge=lfs
+*.aac filter=lfs diff=lfs merge=lfs
+*.aiff filter=lfs diff=lfs merge=lfs
+
+# Books
+*.epub filter=lfs diff=lfs merge=lfs
+*.djvu filter=lfs diff=lfs merge=lfs
+*.mobi filter=lfs diff=lfs merge=lfs
+*.azw3 filter=lfs diff=lfs merge=lfs
+
+# Video
+*.mkv filter=lfs diff=lfs merge=lfs
+*.avi filter=lfs diff=lfs merge=lfs
+*.mov filter=lfs diff=lfs merge=lfs
+*.mp4 filter=lfs diff=lfs merge=lfs
+*.flv filter=lfs diff=lfs merge=lfs
+*.mpg filter=lfs diff=lfs merge=lfs
+*.mpeg filter=lfs diff=lfs merge=lfs
+*.vob filter=lfs diff=lfs merge=lfs
+*.amv filter=lfs diff=lfs merge=lfs
+*.3gp filter=lfs diff=lfs merge=lfs
+
+# Disk images
+*.iso filter=lfs diff=lfs merge=lfs
+*.elf filter=lfs diff=lfs merge=lfs
+
+# Exe
+*.exe filter=lfs diff=lfs merge=lfs
+*.msi filter=lfs diff=lfs merge=lfs
+*.dll filter=lfs diff=lfs merge=lfs
